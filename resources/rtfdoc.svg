@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4253"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="250"
+   height="250"
+   viewBox="0 0 250 250"
+   sodipodi:docname="rtfdoc.svg"
+   inkscape:export-filename="/Users/gvincent/Desktop/rtfdoc.png"
+   inkscape:export-xdpi="338"
+   inkscape:export-ydpi="338">
+  <metadata
+     id="metadata4259">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4257" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     id="namedview4255"
+     showgrid="false"
+     inkscape:zoom="2.596"
+     inkscape:cx="125"
+     inkscape:cy="125"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4253"
+     inkscape:showpageshadow="false" />
+  <g
+     id="g3433"
+     transform="matrix(5.6250011,0,0,5.6250011,29.374986,-1185.6253)">
+    <path
+       inkscape:export-ydpi="67.760002"
+       inkscape:export-xdpi="67.760002"
+       inkscape:connector-curvature="0"
+       id="path4269"
+       d="m 16.089039,245.03643 c -4.160315,-0.2187 -8.5681011,-0.64033 -12.12687,-3.00871 -2.4011117,-1.45626 -3.61634061,-4.61123 -2.6035458,-7.26625 0.7539936,-1.96667 2.1868621,-3.78437 1.9982143,-6.00568 0.070748,-2.39637 -0.2358047,-4.79837 -0.078385,-7.18912 0.681293,-1.63361 2.2740122,0.37056 3.0009138,1.04449 1.1871106,1.17033 2.2133337,2.49797 3.4569301,3.61185 4.8514666,-1.14777 10.0273196,-1.18134 14.8304526,0.21933 1.884545,-1.58883 3.326697,-3.70633 5.432879,-5.01859 1.710583,-0.53582 1.044006,1.96343 1.091527,2.93859 -0.05475,2.26342 -0.408959,4.55163 -0.07105,6.80379 0.621187,2.15376 2.228147,4.08771 1.947247,6.45106 -0.290111,3.24818 -3.239853,5.51525 -6.211744,6.27396 -3.457735,0.97513 -7.08625,1.25589 -10.666571,1.14528 z"
+       style="fill:#000000" />
+    <g
+       transform="translate(0.31432974,216.53313)"
+       id="g3381">
+      <ellipse
+         ry="4.363965"
+         rx="2.0742781"
+         cy="15.209553"
+         cx="12.388698"
+         id="ellipse4306"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.07268828;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-xdpi="67.760002"
+         inkscape:export-ydpi="67.760002" />
+      <circle
+         cy="12.874351"
+         cx="12.056072"
+         id="circle4308"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.15766357;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="0.92116821"
+         inkscape:export-xdpi="67.760002"
+         inkscape:export-ydpi="67.760002" />
+    </g>
+    <g
+       transform="translate(0.31432974,216.53313)"
+       id="g3377">
+      <ellipse
+         inkscape:export-ydpi="67.760002"
+         inkscape:export-xdpi="67.760002"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.07268828;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3373"
+         cx="19.042011"
+         cy="15.209553"
+         rx="2.0742781"
+         ry="4.363965" />
+      <circle
+         inkscape:export-ydpi="67.760002"
+         inkscape:export-xdpi="67.760002"
+         r="0.92116821"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.15766357;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle3375"
+         cx="18.709385"
+         cy="12.874351" />
+    </g>
+  </g>
+</svg>
